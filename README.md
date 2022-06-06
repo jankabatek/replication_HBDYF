@@ -22,5 +22,5 @@ To execute the code with proprietary STATNL data, make sure that you have access
 
 The datasets marked with (x) are essential. The other datasets add valuable information and can be used to derive additional descriptive statistics, however the code runs without them. Inquiries regarding the STATNL data access should be addressed to [microdata@cbs.nl](mailto:microdata@cbs.nl)
 
-The regression model results are stored in the log file stored in folder ${MAIN_FOL}/${LOG}/log_${VERSION}  
+The regression model results are stored in the log file stored in folder MAIN_FOL/LOG/log_VERSION  
 The runtime of the analysis is several hours.                                                                       
