@@ -1,5 +1,7 @@
 # Replication code for [Kabátek (2021), ILR](https://journals.sagepub.com/doi/full/10.1177/0019793919897914)
-                                                                             
+       
+<img src="https://www.jankabatek.com/img/HBDYF.jpg" alt="drawing" width="600"/>         
+        
 This replication package contains one Stata file that constructs the principal analytiucal dataset, estimates the full set of job separation models, and produces select desecriptive statistics. The code for the remainder of descriptive statistics and regression models is available on request. 
 
 The code was written and executed in STATA 15.0, OS Windows 10.            
